@@ -1,2 +1,5 @@
 # Hello-World
-Firsst Read Me File.
+First Read Me File.
+
+Updating the Read me File to see how collaboration works
+
